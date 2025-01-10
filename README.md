@@ -87,6 +87,9 @@ Using PowerShell, multiple user accounts were created within the "_EMPLOYEES" OU
 <p align="center">
 <img src="https://imgur.com/R1CRss4.png" alt="Active Directory Lab Image" height="80%" width="80%">
 </p>
+<p align="center">
+<img src="https://imgur.com/q9fIEwL.png" alt="Active Directory Lab Image" height="80%" width="80%">
+</p>
 
 ---
 
